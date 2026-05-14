@@ -1,0 +1,13 @@
+# Quarto/Jupyter HTML export artifacts
+*.html
+*_files/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+
+# OS
+.DS_Store
